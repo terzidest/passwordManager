@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "265479101351",
+    "firebase_url": "https://passmanager-1ca4a.firebaseio.com",
+    "project_id": "passmanager-1ca4a",
+    "storage_bucket": "passmanager-1ca4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265479101351:android:8a96b17f73ca90fa",
+        "android_client_info": {
+          "package_name": "com.example.vicky.passmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265479101351-2plgmj7ovmvaj0snokdu5f8a7snovggi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vicky.passmanager",
+            "certificate_hash": "d3e06d4ce2c70dc5315606e1fd3393a8ac2aa2c2"
+          }
+        },
+        {
+          "client_id": "265479101351-tmi2vlc9tt4esvouhq14433qqn62p5ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vicky.passmanager",
+            "certificate_hash": "d2622e58ae4ef05f603342d3771a069291137282"
+          }
+        },
+        {
+          "client_id": "265479101351-4p2nia7oc9fvmm6o9ge2lgq9416u25ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vicky.passmanager",
+            "certificate_hash": "14ccf9406f6928d8821adeff1d2a61a3ea08835f"
+          }
+        },
+        {
+          "client_id": "265479101351-upajfcllkg8en434tt1d62ru73h9uv5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3E78GUGGts4KQ3cFjwnuKlnEtNjpLo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265479101351-upajfcllkg8en434tt1d62ru73h9uv5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

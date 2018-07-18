@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PassManager</string>
+    <string name="categories_of_passwords">Categories Of Passwords</string>
+
+    <string name="password_hint">Password</string>
+    <string name="Addpassword_hint">add Password</string>
+    <string name="email_hint">Email</string>
+    <string name="Addname_hint">add Name</string>
+    <string name="set_up_profile_button">Set up your profile</string>
+    <string name="sex_hint">Sex</string>
+    <string name="age_hint">Age</string>
+    <string name="signup_error_message">Please make sure you enter an email address and password!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Didn\'t sign up yet? Set up your profile here!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Add New Item</string>
+    <string name="action_logout">Logout</string>
+    <string name="textview">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview1">TextView</string>
+
+</resources>
